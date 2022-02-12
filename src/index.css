@@ -1,0 +1,75 @@
+
+@import url('https://fonts.googleapis.com/css2?family=Roboto+Slab:wght@300&family=Supermercado+One&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Playfair+Display&family=Quintessential&family=Roboto+Slab:wght@300&family=Supermercado+One&display=swap');
+
+nav{
+  height: 5rem;
+  border-top: 3px solid #000;
+  border-bottom: 6px groove #000;
+  font-family: cursive;
+  font: 1em sans-serif;
+  font-size: 1.4rem;
+  margin-top: 1rem;
+
+}
+.header{
+  font-family: 'Roboto Slab', serif;
+  font-family: 'Supermercado One', cursive;
+
+}
+ul li{
+  display: inline-block;
+  margin-left: 8rem;
+  padding-top: 1.5rem;
+  text-decoration: underline;
+}
+hr.horizontle1{
+  width: 60rem;
+  background-color: red;
+  border: 3px solid red;
+
+}
+.mainOuterDiv{
+  margin-top: 7rem;
+}
+.image1{
+  height: 30rem;
+  width: 37rem;
+  padding: 0.5rem;
+  margin-left: 1rem;
+}
+.pera{
+  padding-top: 3rem;
+  font-size: 1.4rem;
+  padding: 1rem;
+}
+.About-Sec{
+  border: 2px solid teal;
+}
+.imagu{
+  height: 30rem;
+  width: 65rem;
+  margin-left: 2rem;
+}
+.cantent{
+  font-size: 1.3rem;
+  margin-top: -1rem;
+  padding: 3rem;
+  background-color: #000;
+  color: white;
+}
+
+.canclusion_hed{
+  font-family: 'Quintessential', cursive;
+  font-weight: bold;
+  text-align: center;
+  margin-top: 3rem;
+  text-decoration:double underline;
+  
+}
+.CardOuter{
+  display: flex;
+  flex-wrap: wrap;
+  padding: 7rem;
+  margin-left: 6rem;
+}
